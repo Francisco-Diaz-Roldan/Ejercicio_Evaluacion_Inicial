@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         int min = 1;
         int max = 1;
-
         int totalPrimos = 0;
 
         Scanner sc = new Scanner(System.in);
